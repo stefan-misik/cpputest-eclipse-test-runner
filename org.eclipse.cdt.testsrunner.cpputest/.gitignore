@@ -1,0 +1,4 @@
+# java binaries
+bin/
+*.jar
+*.class
